@@ -9,3 +9,7 @@ def home():
 @app.route("/api/test")
 def test():
     return jsonify({"status": "working"})
+
+@app.route("/health")
+def health():
+    return jsonify({"status": "alive"})
