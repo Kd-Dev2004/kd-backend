@@ -53,7 +53,7 @@ AI Engineer
 Systems Engineer
 
 Website:
-https://kaushaldholakiya4.com
+https://kd-dev2004.github.io/
 
 GitHub:
 https://github.com/KD-2004
