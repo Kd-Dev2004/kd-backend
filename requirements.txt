@@ -2,3 +2,5 @@ flask
 gunicorn
 groq
 flask-cors
+uuid
+requests
